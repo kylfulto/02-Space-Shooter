@@ -1,15 +1,17 @@
 # Project Name
+02 Prject Space Shooter
 
-Context and date
+February 12, 2021
 
 Description
+Simple Space Shooter game
 
 ## Implementation
-Which features you included
+Coding
 
 ## References
 
 ## Future Development
 
 ## Created by
-Jason Francis
+Kylie Fulton
